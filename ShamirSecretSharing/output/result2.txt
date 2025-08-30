@@ -1,0 +1,2 @@
+Reconstructed Secret: 79836264049851
+Corrupted Shares: [2, 8]

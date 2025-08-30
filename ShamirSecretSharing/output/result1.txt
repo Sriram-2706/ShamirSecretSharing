@@ -1,0 +1,2 @@
+Reconstructed Secret: 3
+Corrupted Shares: []
